@@ -1,5 +1,5 @@
 
-## Sobre
+## Sobre eu
 
 - 🌱 Estudando mais Python, Java e Csharp.
 
